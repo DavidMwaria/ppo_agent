@@ -1,0 +1,345 @@
+episode 1:
+total request num: 472
+accept ratio: 0.7139830508474576
+episode 3:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 5:
+total request num: 472
+accept ratio: 0.4872881355932203
+episode 7:
+total request num: 472
+accept ratio: 0.4894067796610169
+episode 9:
+total request num: 472
+accept ratio: 0.451271186440678
+episode 11:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 13:
+total request num: 472
+accept ratio: 0.4915254237288136
+episode 15:
+total request num: 472
+accept ratio: 0.4957627118644068
+episode 17:
+total request num: 472
+accept ratio: 0.4851694915254237
+episode 19:
+total request num: 472
+accept ratio: 0.4830508474576271
+episode 21:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 23:
+total request num: 472
+accept ratio: 0.5
+episode 25:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 27:
+total request num: 472
+accept ratio: 0.5402542372881356
+episode 29:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 31:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 33:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 35:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 37:
+total request num: 472
+accept ratio: 0.5127118644067796
+episode 39:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 41:
+total request num: 472
+accept ratio: 0.4724576271186441
+episode 43:
+total request num: 472
+accept ratio: 0.4915254237288136
+episode 45:
+total request num: 472
+accept ratio: 0.527542372881356
+episode 47:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 49:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 51:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 53:
+total request num: 472
+accept ratio: 0.5444915254237288
+episode 55:
+total request num: 472
+accept ratio: 0.5211864406779662
+episode 57:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 59:
+total request num: 472
+accept ratio: 0.5
+episode 61:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 63:
+total request num: 472
+accept ratio: 0.4936440677966102
+episode 65:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 67:
+total request num: 472
+accept ratio: 0.4682203389830508
+episode 69:
+total request num: 472
+accept ratio: 0.5
+episode 71:
+total request num: 472
+accept ratio: 0.4724576271186441
+episode 73:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 75:
+total request num: 472
+accept ratio: 0.5042372881355932
+episode 77:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 79:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 81:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 83:
+total request num: 472
+accept ratio: 0.527542372881356
+episode 85:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 87:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 89:
+total request num: 472
+accept ratio: 0.4957627118644068
+episode 91:
+total request num: 472
+accept ratio: 0.5211864406779662
+episode 93:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 95:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 97:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 99:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 101:
+total request num: 472
+accept ratio: 0.5211864406779662
+episode 103:
+total request num: 472
+accept ratio: 0.5
+episode 105:
+total request num: 472
+accept ratio: 0.4851694915254237
+episode 107:
+total request num: 472
+accept ratio: 0.5127118644067796
+episode 109:
+total request num: 472
+accept ratio: 0.5402542372881356
+episode 111:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 113:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 115:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 117:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 119:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 121:
+total request num: 472
+accept ratio: 0.4766949152542373
+episode 123:
+total request num: 472
+accept ratio: 0.5211864406779662
+episode 125:
+total request num: 472
+accept ratio: 0.4915254237288136
+episode 127:
+total request num: 472
+accept ratio: 0.5127118644067796
+episode 129:
+total request num: 472
+accept ratio: 0.4809322033898305
+episode 131:
+total request num: 472
+accept ratio: 0.5338983050847458
+episode 133:
+total request num: 472
+accept ratio: 0.5
+episode 135:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 137:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 139:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 141:
+total request num: 472
+accept ratio: 0.5233050847457628
+episode 143:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 145:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 147:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 149:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 151:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 153:
+total request num: 472
+accept ratio: 0.4978813559322034
+episode 155:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 157:
+total request num: 472
+accept ratio: 0.5042372881355932
+episode 159:
+total request num: 472
+accept ratio: 0.4957627118644068
+episode 161:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 163:
+total request num: 472
+accept ratio: 0.4957627118644068
+episode 165:
+total request num: 472
+accept ratio: 0.4872881355932203
+episode 167:
+total request num: 472
+accept ratio: 0.5063559322033898
+episode 169:
+total request num: 472
+accept ratio: 0.5021186440677966
+episode 171:
+total request num: 472
+accept ratio: 0.5042372881355932
+episode 173:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 175:
+total request num: 472
+accept ratio: 0.510593220338983
+episode 177:
+total request num: 472
+accept ratio: 0.4745762711864407
+episode 179:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 181:
+total request num: 472
+accept ratio: 0.4936440677966102
+episode 183:
+total request num: 472
+accept ratio: 0.4851694915254237
+episode 185:
+total request num: 472
+accept ratio: 0.5444915254237288
+episode 187:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 189:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 191:
+total request num: 472
+accept ratio: 0.5233050847457628
+episode 193:
+total request num: 472
+accept ratio: 0.4936440677966102
+episode 195:
+total request num: 472
+accept ratio: 0.5169491525423728
+episode 197:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 199:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 201:
+total request num: 472
+accept ratio: 0.5254237288135594
+episode 203:
+total request num: 472
+accept ratio: 0.4809322033898305
+episode 205:
+total request num: 472
+accept ratio: 0.5402542372881356
+episode 207:
+total request num: 472
+accept ratio: 0.4915254237288136
+episode 209:
+total request num: 472
+accept ratio: 0.527542372881356
+episode 211:
+total request num: 472
+accept ratio: 0.4936440677966102
+episode 213:
+total request num: 472
+accept ratio: 0.5084745762711864
+episode 215:
+total request num: 472
+accept ratio: 0.4957627118644068
+episode 217:
+total request num: 472
+accept ratio: 0.5190677966101694
+episode 219:
+total request num: 472
+accept ratio: 0.4978813559322034
+episode 221:
+total request num: 472
+accept ratio: 0.4830508474576271
+episode 223:
+total request num: 472
+accept ratio: 0.5042372881355932
+episode 225:
+total request num: 472
+accept ratio: 0.5211864406779662
+episode 227:
+total request num: 472
+accept ratio: 0.5148305084745762
+episode 229:
+total request num: 472
+accept ratio: 0.5127118644067796
