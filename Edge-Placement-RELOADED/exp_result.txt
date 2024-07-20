@@ -1,0 +1,2139 @@
+episode 1:
+total request num: 468
+accept ratio: 0.75
+episode 3:
+total request num: 468
+accept ratio: 0.0
+episode 5:
+total request num: 468
+accept ratio: 0.0
+episode 7:
+total request num: 468
+accept ratio: 0.0
+episode 9:
+total request num: 468
+accept ratio: 0.0
+episode 11:
+total request num: 468
+accept ratio: 0.0
+episode 13:
+total request num: 468
+accept ratio: 0.0
+episode 15:
+total request num: 468
+accept ratio: 0.0
+episode 17:
+total request num: 468
+accept ratio: 0.0
+episode 19:
+total request num: 468
+accept ratio: 0.0
+episode 21:
+total request num: 468
+accept ratio: 0.0
+episode 23:
+total request num: 468
+accept ratio: 0.0
+episode 25:
+total request num: 468
+accept ratio: 0.0
+episode 27:
+total request num: 468
+accept ratio: 0.0
+episode 29:
+total request num: 468
+accept ratio: 0.0
+episode 31:
+total request num: 468
+accept ratio: 0.0
+episode 33:
+total request num: 468
+accept ratio: 0.0
+episode 35:
+total request num: 468
+accept ratio: 0.0
+episode 37:
+total request num: 468
+accept ratio: 0.0
+episode 39:
+total request num: 468
+accept ratio: 0.0
+episode 41:
+total request num: 468
+accept ratio: 0.0
+episode 43:
+total request num: 468
+accept ratio: 0.0
+episode 45:
+total request num: 468
+accept ratio: 0.0
+episode 47:
+total request num: 468
+accept ratio: 0.0
+episode 49:
+total request num: 468
+accept ratio: 0.0
+episode 51:
+total request num: 468
+accept ratio: 0.0
+episode 53:
+total request num: 468
+accept ratio: 0.0
+episode 55:
+total request num: 468
+accept ratio: 0.0
+episode 57:
+total request num: 468
+accept ratio: 0.0
+episode 59:
+total request num: 468
+accept ratio: 0.0
+episode 61:
+total request num: 468
+accept ratio: 0.0
+episode 63:
+total request num: 468
+accept ratio: 0.0
+episode 65:
+total request num: 468
+accept ratio: 0.0
+episode 67:
+total request num: 468
+accept ratio: 0.0
+episode 69:
+total request num: 468
+accept ratio: 0.0
+episode 71:
+total request num: 468
+accept ratio: 0.0
+episode 73:
+total request num: 468
+accept ratio: 0.0
+episode 75:
+total request num: 468
+accept ratio: 0.0
+episode 77:
+total request num: 468
+accept ratio: 0.0
+episode 79:
+total request num: 468
+accept ratio: 0.0
+episode 81:
+total request num: 468
+accept ratio: 0.0
+episode 83:
+total request num: 468
+accept ratio: 0.0
+episode 85:
+total request num: 468
+accept ratio: 0.0
+episode 87:
+total request num: 468
+accept ratio: 0.0
+episode 89:
+total request num: 468
+accept ratio: 0.0
+episode 91:
+total request num: 468
+accept ratio: 0.0
+episode 93:
+total request num: 468
+accept ratio: 0.0
+episode 95:
+total request num: 468
+accept ratio: 0.0
+episode 97:
+total request num: 468
+accept ratio: 0.0
+episode 99:
+total request num: 468
+accept ratio: 0.0
+episode 101:
+total request num: 468
+accept ratio: 0.0
+episode 103:
+total request num: 468
+accept ratio: 0.0
+episode 105:
+total request num: 468
+accept ratio: 0.0
+episode 107:
+total request num: 468
+accept ratio: 0.0
+episode 109:
+total request num: 468
+accept ratio: 0.0
+episode 111:
+total request num: 468
+accept ratio: 0.0
+episode 113:
+total request num: 468
+accept ratio: 0.0
+episode 115:
+total request num: 468
+accept ratio: 0.0
+episode 117:
+total request num: 468
+accept ratio: 0.0
+episode 119:
+total request num: 468
+accept ratio: 0.0
+episode 121:
+total request num: 468
+accept ratio: 0.0
+episode 123:
+total request num: 468
+accept ratio: 0.0
+episode 125:
+total request num: 468
+accept ratio: 0.0
+episode 127:
+total request num: 468
+accept ratio: 0.0
+episode 129:
+total request num: 468
+accept ratio: 0.0
+episode 131:
+total request num: 468
+accept ratio: 0.0
+episode 133:
+total request num: 468
+accept ratio: 0.0
+episode 135:
+total request num: 468
+accept ratio: 0.0
+episode 137:
+total request num: 468
+accept ratio: 0.0
+episode 139:
+total request num: 468
+accept ratio: 0.0
+episode 141:
+total request num: 468
+accept ratio: 0.0
+episode 143:
+total request num: 468
+accept ratio: 0.0
+episode 145:
+total request num: 468
+accept ratio: 0.0
+episode 147:
+total request num: 468
+accept ratio: 0.0
+episode 149:
+total request num: 468
+accept ratio: 0.0
+episode 151:
+total request num: 468
+accept ratio: 0.0
+episode 153:
+total request num: 468
+accept ratio: 0.0
+episode 155:
+total request num: 468
+accept ratio: 0.0
+episode 157:
+total request num: 468
+accept ratio: 0.0
+episode 159:
+total request num: 468
+accept ratio: 0.0
+episode 161:
+total request num: 468
+accept ratio: 0.0
+episode 163:
+total request num: 468
+accept ratio: 0.0
+episode 165:
+total request num: 468
+accept ratio: 0.0
+episode 167:
+total request num: 468
+accept ratio: 0.0
+episode 169:
+total request num: 468
+accept ratio: 0.0
+episode 171:
+total request num: 468
+accept ratio: 0.0
+episode 173:
+total request num: 468
+accept ratio: 0.0
+episode 175:
+total request num: 468
+accept ratio: 0.0
+episode 177:
+total request num: 468
+accept ratio: 0.0
+episode 179:
+total request num: 468
+accept ratio: 0.0
+episode 181:
+total request num: 468
+accept ratio: 0.0
+episode 183:
+total request num: 468
+accept ratio: 0.0
+episode 185:
+total request num: 468
+accept ratio: 0.0
+episode 187:
+total request num: 468
+accept ratio: 0.0
+episode 189:
+total request num: 468
+accept ratio: 0.0
+episode 191:
+total request num: 468
+accept ratio: 0.0
+episode 193:
+total request num: 468
+accept ratio: 0.0
+episode 195:
+total request num: 468
+accept ratio: 0.0
+episode 197:
+total request num: 468
+accept ratio: 0.0
+episode 199:
+total request num: 468
+accept ratio: 0.0
+episode 201:
+total request num: 468
+accept ratio: 0.0
+episode 203:
+total request num: 468
+accept ratio: 0.0
+episode 205:
+total request num: 468
+accept ratio: 0.0
+episode 207:
+total request num: 468
+accept ratio: 0.0
+episode 209:
+total request num: 468
+accept ratio: 0.0
+episode 211:
+total request num: 468
+accept ratio: 0.0
+episode 213:
+total request num: 468
+accept ratio: 0.0
+episode 215:
+total request num: 468
+accept ratio: 0.0
+episode 217:
+total request num: 468
+accept ratio: 0.0
+episode 219:
+total request num: 468
+accept ratio: 0.0
+episode 221:
+total request num: 468
+accept ratio: 0.0
+episode 223:
+total request num: 468
+accept ratio: 0.0
+episode 225:
+total request num: 468
+accept ratio: 0.0
+episode 227:
+total request num: 468
+accept ratio: 0.0
+episode 229:
+total request num: 468
+accept ratio: 0.0
+episode 231:
+total request num: 468
+accept ratio: 0.0
+episode 233:
+total request num: 468
+accept ratio: 0.0
+episode 235:
+total request num: 468
+accept ratio: 0.0
+episode 237:
+total request num: 468
+accept ratio: 0.0
+episode 239:
+total request num: 468
+accept ratio: 0.0
+episode 241:
+total request num: 468
+accept ratio: 0.0
+episode 243:
+total request num: 468
+accept ratio: 0.0
+episode 245:
+total request num: 468
+accept ratio: 0.0
+episode 247:
+total request num: 468
+accept ratio: 0.0
+episode 249:
+total request num: 468
+accept ratio: 0.0
+episode 251:
+total request num: 468
+accept ratio: 0.0
+episode 253:
+total request num: 468
+accept ratio: 0.0
+episode 255:
+total request num: 468
+accept ratio: 0.0
+episode 257:
+total request num: 468
+accept ratio: 0.0
+episode 259:
+total request num: 468
+accept ratio: 0.0
+episode 261:
+total request num: 468
+accept ratio: 0.0
+episode 263:
+total request num: 468
+accept ratio: 0.0
+episode 265:
+total request num: 468
+accept ratio: 0.0
+episode 267:
+total request num: 468
+accept ratio: 0.0
+episode 269:
+total request num: 468
+accept ratio: 0.0
+episode 271:
+total request num: 468
+accept ratio: 0.0
+episode 273:
+total request num: 468
+accept ratio: 0.0
+episode 275:
+total request num: 468
+accept ratio: 0.0
+episode 277:
+total request num: 468
+accept ratio: 0.0
+episode 279:
+total request num: 468
+accept ratio: 0.0
+episode 281:
+total request num: 468
+accept ratio: 0.0
+episode 283:
+total request num: 468
+accept ratio: 0.0
+episode 285:
+total request num: 468
+accept ratio: 0.0
+episode 287:
+total request num: 468
+accept ratio: 0.0
+episode 289:
+total request num: 468
+accept ratio: 0.0
+episode 291:
+total request num: 468
+accept ratio: 0.0
+episode 293:
+total request num: 468
+accept ratio: 0.0
+episode 295:
+total request num: 468
+accept ratio: 0.0
+episode 297:
+total request num: 468
+accept ratio: 0.0
+episode 299:
+total request num: 468
+accept ratio: 0.0
+episode 301:
+total request num: 468
+accept ratio: 0.0
+episode 303:
+total request num: 468
+accept ratio: 0.0
+episode 305:
+total request num: 468
+accept ratio: 0.0
+episode 307:
+total request num: 468
+accept ratio: 0.0
+episode 309:
+total request num: 468
+accept ratio: 0.0
+episode 311:
+total request num: 468
+accept ratio: 0.0
+episode 313:
+total request num: 468
+accept ratio: 0.0
+episode 315:
+total request num: 468
+accept ratio: 0.0
+episode 317:
+total request num: 468
+accept ratio: 0.0
+episode 319:
+total request num: 468
+accept ratio: 0.0
+episode 321:
+total request num: 468
+accept ratio: 0.0
+episode 323:
+total request num: 468
+accept ratio: 0.0
+episode 325:
+total request num: 468
+accept ratio: 0.0
+episode 327:
+total request num: 468
+accept ratio: 0.0
+episode 329:
+total request num: 468
+accept ratio: 0.0
+episode 331:
+total request num: 468
+accept ratio: 0.0
+episode 333:
+total request num: 468
+accept ratio: 0.0
+episode 335:
+total request num: 468
+accept ratio: 0.0
+episode 337:
+total request num: 468
+accept ratio: 0.0
+episode 339:
+total request num: 468
+accept ratio: 0.0
+episode 341:
+total request num: 468
+accept ratio: 0.0
+episode 343:
+total request num: 468
+accept ratio: 0.0
+episode 345:
+total request num: 468
+accept ratio: 0.0
+episode 347:
+total request num: 468
+accept ratio: 0.0
+episode 349:
+total request num: 468
+accept ratio: 0.0
+episode 351:
+total request num: 468
+accept ratio: 0.0
+episode 353:
+total request num: 468
+accept ratio: 0.0
+episode 355:
+total request num: 468
+accept ratio: 0.0
+episode 357:
+total request num: 468
+accept ratio: 0.0
+episode 359:
+total request num: 468
+accept ratio: 0.0
+episode 361:
+total request num: 468
+accept ratio: 0.0
+episode 363:
+total request num: 468
+accept ratio: 0.0
+episode 365:
+total request num: 468
+accept ratio: 0.0
+episode 367:
+total request num: 468
+accept ratio: 0.0
+episode 369:
+total request num: 468
+accept ratio: 0.0
+episode 371:
+total request num: 468
+accept ratio: 0.0
+episode 373:
+total request num: 468
+accept ratio: 0.0
+episode 375:
+total request num: 468
+accept ratio: 0.0
+episode 377:
+total request num: 468
+accept ratio: 0.0
+episode 379:
+total request num: 468
+accept ratio: 0.0
+episode 381:
+total request num: 468
+accept ratio: 0.0
+episode 383:
+total request num: 468
+accept ratio: 0.0
+episode 385:
+total request num: 468
+accept ratio: 0.0
+episode 387:
+total request num: 468
+accept ratio: 0.0
+episode 389:
+total request num: 468
+accept ratio: 0.0
+episode 391:
+total request num: 468
+accept ratio: 0.0
+episode 393:
+total request num: 468
+accept ratio: 0.0
+episode 395:
+total request num: 468
+accept ratio: 0.0
+episode 397:
+total request num: 468
+accept ratio: 0.0
+episode 399:
+total request num: 468
+accept ratio: 0.0
+episode 401:
+total request num: 468
+accept ratio: 0.0
+episode 403:
+total request num: 468
+accept ratio: 0.0
+episode 405:
+total request num: 468
+accept ratio: 0.0
+episode 407:
+total request num: 468
+accept ratio: 0.0
+episode 409:
+total request num: 468
+accept ratio: 0.0
+episode 411:
+total request num: 468
+accept ratio: 0.0
+episode 413:
+total request num: 468
+accept ratio: 0.0
+episode 415:
+total request num: 468
+accept ratio: 0.0
+episode 417:
+total request num: 468
+accept ratio: 0.0
+episode 419:
+total request num: 468
+accept ratio: 0.0
+episode 421:
+total request num: 468
+accept ratio: 0.0
+episode 423:
+total request num: 468
+accept ratio: 0.0
+episode 425:
+total request num: 468
+accept ratio: 0.0
+episode 427:
+total request num: 468
+accept ratio: 0.0
+episode 429:
+total request num: 468
+accept ratio: 0.0
+episode 431:
+total request num: 468
+accept ratio: 0.0
+episode 433:
+total request num: 468
+accept ratio: 0.0
+episode 435:
+total request num: 468
+accept ratio: 0.0
+episode 437:
+total request num: 468
+accept ratio: 0.0
+episode 439:
+total request num: 468
+accept ratio: 0.0
+episode 441:
+total request num: 468
+accept ratio: 0.0
+episode 443:
+total request num: 468
+accept ratio: 0.0
+episode 445:
+total request num: 468
+accept ratio: 0.0
+episode 447:
+total request num: 468
+accept ratio: 0.0
+episode 449:
+total request num: 468
+accept ratio: 0.0
+episode 451:
+total request num: 468
+accept ratio: 0.0
+episode 453:
+total request num: 468
+accept ratio: 0.0
+episode 455:
+total request num: 468
+accept ratio: 0.0
+episode 457:
+total request num: 468
+accept ratio: 0.0
+episode 459:
+total request num: 468
+accept ratio: 0.0
+episode 461:
+total request num: 468
+accept ratio: 0.0
+episode 463:
+total request num: 468
+accept ratio: 0.0
+episode 465:
+total request num: 468
+accept ratio: 0.0
+episode 467:
+total request num: 468
+accept ratio: 0.0
+episode 469:
+total request num: 468
+accept ratio: 0.0
+episode 471:
+total request num: 468
+accept ratio: 0.0
+episode 473:
+total request num: 468
+accept ratio: 0.0
+episode 475:
+total request num: 468
+accept ratio: 0.0
+episode 477:
+total request num: 468
+accept ratio: 0.0
+episode 479:
+total request num: 468
+accept ratio: 0.0
+episode 481:
+total request num: 468
+accept ratio: 0.0
+episode 483:
+total request num: 468
+accept ratio: 0.0
+episode 485:
+total request num: 468
+accept ratio: 0.0
+episode 487:
+total request num: 468
+accept ratio: 0.0
+episode 489:
+total request num: 468
+accept ratio: 0.0
+episode 491:
+total request num: 468
+accept ratio: 0.0
+episode 493:
+total request num: 468
+accept ratio: 0.0
+episode 495:
+total request num: 468
+accept ratio: 0.0
+episode 497:
+total request num: 468
+accept ratio: 0.0
+episode 499:
+total request num: 468
+accept ratio: 0.0
+episode 501:
+total request num: 468
+accept ratio: 0.0
+episode 503:
+total request num: 468
+accept ratio: 0.0
+episode 505:
+total request num: 468
+accept ratio: 0.0
+episode 507:
+total request num: 468
+accept ratio: 0.0
+episode 509:
+total request num: 468
+accept ratio: 0.0
+episode 511:
+total request num: 468
+accept ratio: 0.0
+episode 513:
+total request num: 468
+accept ratio: 0.0
+episode 515:
+total request num: 468
+accept ratio: 0.0
+episode 517:
+total request num: 468
+accept ratio: 0.0
+episode 519:
+total request num: 468
+accept ratio: 0.0
+episode 521:
+total request num: 468
+accept ratio: 0.0
+episode 523:
+total request num: 468
+accept ratio: 0.0
+episode 525:
+total request num: 468
+accept ratio: 0.0
+episode 527:
+total request num: 468
+accept ratio: 0.0
+episode 529:
+total request num: 468
+accept ratio: 0.0
+episode 531:
+total request num: 468
+accept ratio: 0.0
+episode 533:
+total request num: 468
+accept ratio: 0.0
+episode 535:
+total request num: 468
+accept ratio: 0.0
+episode 537:
+total request num: 468
+accept ratio: 0.0
+episode 539:
+total request num: 468
+accept ratio: 0.0
+episode 541:
+total request num: 468
+accept ratio: 0.0
+episode 543:
+total request num: 468
+accept ratio: 0.0
+episode 545:
+total request num: 468
+accept ratio: 0.0
+episode 547:
+total request num: 468
+accept ratio: 0.0
+episode 549:
+total request num: 468
+accept ratio: 0.0
+episode 551:
+total request num: 468
+accept ratio: 0.0
+episode 553:
+total request num: 468
+accept ratio: 0.0
+episode 555:
+total request num: 468
+accept ratio: 0.0
+episode 557:
+total request num: 468
+accept ratio: 0.0
+episode 559:
+total request num: 468
+accept ratio: 0.0
+episode 561:
+total request num: 468
+accept ratio: 0.0
+episode 563:
+total request num: 468
+accept ratio: 0.0
+episode 565:
+total request num: 468
+accept ratio: 0.0
+episode 567:
+total request num: 468
+accept ratio: 0.0
+episode 569:
+total request num: 468
+accept ratio: 0.0
+episode 571:
+total request num: 468
+accept ratio: 0.0
+episode 573:
+total request num: 468
+accept ratio: 0.0
+episode 575:
+total request num: 468
+accept ratio: 0.0
+episode 577:
+total request num: 468
+accept ratio: 0.0
+episode 579:
+total request num: 468
+accept ratio: 0.0
+episode 581:
+total request num: 468
+accept ratio: 0.0
+episode 583:
+total request num: 468
+accept ratio: 0.0
+episode 585:
+total request num: 468
+accept ratio: 0.0
+episode 587:
+total request num: 468
+accept ratio: 0.0
+episode 589:
+total request num: 468
+accept ratio: 0.0
+episode 591:
+total request num: 468
+accept ratio: 0.0
+episode 593:
+total request num: 468
+accept ratio: 0.0
+episode 595:
+total request num: 468
+accept ratio: 0.0
+episode 597:
+total request num: 468
+accept ratio: 0.0
+episode 599:
+total request num: 468
+accept ratio: 0.0
+episode 601:
+total request num: 468
+accept ratio: 0.0
+episode 603:
+total request num: 468
+accept ratio: 0.0
+episode 605:
+total request num: 468
+accept ratio: 0.0
+episode 607:
+total request num: 468
+accept ratio: 0.0
+episode 609:
+total request num: 468
+accept ratio: 0.0
+episode 611:
+total request num: 468
+accept ratio: 0.0
+episode 613:
+total request num: 468
+accept ratio: 0.0
+episode 615:
+total request num: 468
+accept ratio: 0.0
+episode 617:
+total request num: 468
+accept ratio: 0.0
+episode 619:
+total request num: 468
+accept ratio: 0.0
+episode 621:
+total request num: 468
+accept ratio: 0.0
+episode 623:
+total request num: 468
+accept ratio: 0.0
+episode 625:
+total request num: 468
+accept ratio: 0.0
+episode 627:
+total request num: 468
+accept ratio: 0.0
+episode 629:
+total request num: 468
+accept ratio: 0.0
+episode 631:
+total request num: 468
+accept ratio: 0.0
+episode 633:
+total request num: 468
+accept ratio: 0.0
+episode 635:
+total request num: 468
+accept ratio: 0.0
+episode 637:
+total request num: 468
+accept ratio: 0.0
+episode 639:
+total request num: 468
+accept ratio: 0.0
+episode 641:
+total request num: 468
+accept ratio: 0.0
+episode 643:
+total request num: 468
+accept ratio: 0.0
+episode 645:
+total request num: 468
+accept ratio: 0.0
+episode 647:
+total request num: 468
+accept ratio: 0.0
+episode 649:
+total request num: 468
+accept ratio: 0.0
+episode 651:
+total request num: 468
+accept ratio: 0.0
+episode 653:
+total request num: 468
+accept ratio: 0.0
+episode 655:
+total request num: 468
+accept ratio: 0.0
+episode 657:
+total request num: 468
+accept ratio: 0.0
+episode 659:
+total request num: 468
+accept ratio: 0.0
+episode 661:
+total request num: 468
+accept ratio: 0.0
+episode 663:
+total request num: 468
+accept ratio: 0.0
+episode 665:
+total request num: 468
+accept ratio: 0.0
+episode 667:
+total request num: 468
+accept ratio: 0.0
+episode 669:
+total request num: 468
+accept ratio: 0.0
+episode 671:
+total request num: 468
+accept ratio: 0.0
+episode 673:
+total request num: 468
+accept ratio: 0.0
+episode 675:
+total request num: 468
+accept ratio: 0.0
+episode 677:
+total request num: 468
+accept ratio: 0.0
+episode 679:
+total request num: 468
+accept ratio: 0.0
+episode 681:
+total request num: 468
+accept ratio: 0.0
+episode 683:
+total request num: 468
+accept ratio: 0.0
+episode 685:
+total request num: 468
+accept ratio: 0.0
+episode 687:
+total request num: 468
+accept ratio: 0.0
+episode 689:
+total request num: 468
+accept ratio: 0.0
+episode 691:
+total request num: 468
+accept ratio: 0.0
+episode 693:
+total request num: 468
+accept ratio: 0.0
+episode 695:
+total request num: 468
+accept ratio: 0.0
+episode 697:
+total request num: 468
+accept ratio: 0.0
+episode 699:
+total request num: 468
+accept ratio: 0.0
+episode 701:
+total request num: 468
+accept ratio: 0.0
+episode 703:
+total request num: 468
+accept ratio: 0.0
+episode 705:
+total request num: 468
+accept ratio: 0.0
+episode 707:
+total request num: 468
+accept ratio: 0.0
+episode 709:
+total request num: 468
+accept ratio: 0.0
+episode 711:
+total request num: 468
+accept ratio: 0.0
+episode 713:
+total request num: 468
+accept ratio: 0.0
+episode 715:
+total request num: 468
+accept ratio: 0.0
+episode 717:
+total request num: 468
+accept ratio: 0.0
+episode 719:
+total request num: 468
+accept ratio: 0.0
+episode 721:
+total request num: 468
+accept ratio: 0.0
+episode 723:
+total request num: 468
+accept ratio: 0.0
+episode 725:
+total request num: 468
+accept ratio: 0.0
+episode 727:
+total request num: 468
+accept ratio: 0.0
+episode 729:
+total request num: 468
+accept ratio: 0.0
+episode 731:
+total request num: 468
+accept ratio: 0.0
+episode 733:
+total request num: 468
+accept ratio: 0.0
+episode 735:
+total request num: 468
+accept ratio: 0.0
+episode 737:
+total request num: 468
+accept ratio: 0.0
+episode 739:
+total request num: 468
+accept ratio: 0.0
+episode 741:
+total request num: 468
+accept ratio: 0.0
+episode 743:
+total request num: 468
+accept ratio: 0.0
+episode 745:
+total request num: 468
+accept ratio: 0.0
+episode 747:
+total request num: 468
+accept ratio: 0.0
+episode 749:
+total request num: 468
+accept ratio: 0.0
+episode 751:
+total request num: 468
+accept ratio: 0.0
+episode 753:
+total request num: 468
+accept ratio: 0.0
+episode 755:
+total request num: 468
+accept ratio: 0.0
+episode 757:
+total request num: 468
+accept ratio: 0.0
+episode 759:
+total request num: 468
+accept ratio: 0.0
+episode 761:
+total request num: 468
+accept ratio: 0.0
+episode 763:
+total request num: 468
+accept ratio: 0.0
+episode 765:
+total request num: 468
+accept ratio: 0.0
+episode 767:
+total request num: 468
+accept ratio: 0.0
+episode 769:
+total request num: 468
+accept ratio: 0.0
+episode 771:
+total request num: 468
+accept ratio: 0.0
+episode 773:
+total request num: 468
+accept ratio: 0.0
+episode 775:
+total request num: 468
+accept ratio: 0.0
+episode 777:
+total request num: 468
+accept ratio: 0.0
+episode 779:
+total request num: 468
+accept ratio: 0.0
+episode 781:
+total request num: 468
+accept ratio: 0.0
+episode 783:
+total request num: 468
+accept ratio: 0.0
+episode 785:
+total request num: 468
+accept ratio: 0.0
+episode 787:
+total request num: 468
+accept ratio: 0.0
+episode 789:
+total request num: 468
+accept ratio: 0.0
+episode 791:
+total request num: 468
+accept ratio: 0.0
+episode 793:
+total request num: 468
+accept ratio: 0.0
+episode 795:
+total request num: 468
+accept ratio: 0.0
+episode 797:
+total request num: 468
+accept ratio: 0.0
+episode 799:
+total request num: 468
+accept ratio: 0.0
+episode 801:
+total request num: 468
+accept ratio: 0.0
+episode 803:
+total request num: 468
+accept ratio: 0.0
+episode 805:
+total request num: 468
+accept ratio: 0.0
+episode 807:
+total request num: 468
+accept ratio: 0.0
+episode 809:
+total request num: 468
+accept ratio: 0.0
+episode 811:
+total request num: 468
+accept ratio: 0.0
+episode 813:
+total request num: 468
+accept ratio: 0.0
+episode 815:
+total request num: 468
+accept ratio: 0.0
+episode 817:
+total request num: 468
+accept ratio: 0.0
+episode 819:
+total request num: 468
+accept ratio: 0.0
+episode 821:
+total request num: 468
+accept ratio: 0.0
+episode 823:
+total request num: 468
+accept ratio: 0.0
+episode 825:
+total request num: 468
+accept ratio: 0.0
+episode 827:
+total request num: 468
+accept ratio: 0.0
+episode 829:
+total request num: 468
+accept ratio: 0.0
+episode 831:
+total request num: 468
+accept ratio: 0.0
+episode 833:
+total request num: 468
+accept ratio: 0.0
+episode 835:
+total request num: 468
+accept ratio: 0.0
+episode 837:
+total request num: 468
+accept ratio: 0.0
+episode 839:
+total request num: 468
+accept ratio: 0.0
+episode 841:
+total request num: 468
+accept ratio: 0.0
+episode 843:
+total request num: 468
+accept ratio: 0.0
+episode 845:
+total request num: 468
+accept ratio: 0.0
+episode 847:
+total request num: 468
+accept ratio: 0.0
+episode 849:
+total request num: 468
+accept ratio: 0.0
+episode 851:
+total request num: 468
+accept ratio: 0.0
+episode 853:
+total request num: 468
+accept ratio: 0.0
+episode 855:
+total request num: 468
+accept ratio: 0.0
+episode 857:
+total request num: 468
+accept ratio: 0.0
+episode 859:
+total request num: 468
+accept ratio: 0.0
+episode 861:
+total request num: 468
+accept ratio: 0.0
+episode 863:
+total request num: 468
+accept ratio: 0.0
+episode 865:
+total request num: 468
+accept ratio: 0.0
+episode 867:
+total request num: 468
+accept ratio: 0.0
+episode 869:
+total request num: 468
+accept ratio: 0.0
+episode 871:
+total request num: 468
+accept ratio: 0.0
+episode 873:
+total request num: 468
+accept ratio: 0.0
+episode 875:
+total request num: 468
+accept ratio: 0.0
+episode 877:
+total request num: 468
+accept ratio: 0.0
+episode 879:
+total request num: 468
+accept ratio: 0.0
+episode 881:
+total request num: 468
+accept ratio: 0.0
+episode 883:
+total request num: 468
+accept ratio: 0.0
+episode 885:
+total request num: 468
+accept ratio: 0.0
+episode 887:
+total request num: 468
+accept ratio: 0.0
+episode 889:
+total request num: 468
+accept ratio: 0.0
+episode 891:
+total request num: 468
+accept ratio: 0.0
+episode 893:
+total request num: 468
+accept ratio: 0.0
+episode 895:
+total request num: 468
+accept ratio: 0.0
+episode 897:
+total request num: 468
+accept ratio: 0.0
+episode 899:
+total request num: 468
+accept ratio: 0.0
+episode 901:
+total request num: 468
+accept ratio: 0.0
+episode 903:
+total request num: 468
+accept ratio: 0.0
+episode 905:
+total request num: 468
+accept ratio: 0.0
+episode 907:
+total request num: 468
+accept ratio: 0.0
+episode 909:
+total request num: 468
+accept ratio: 0.0
+episode 911:
+total request num: 468
+accept ratio: 0.0
+episode 913:
+total request num: 468
+accept ratio: 0.0
+episode 915:
+total request num: 468
+accept ratio: 0.0
+episode 917:
+total request num: 468
+accept ratio: 0.0
+episode 919:
+total request num: 468
+accept ratio: 0.0
+episode 921:
+total request num: 468
+accept ratio: 0.0
+episode 923:
+total request num: 468
+accept ratio: 0.0
+episode 925:
+total request num: 468
+accept ratio: 0.0
+episode 927:
+total request num: 468
+accept ratio: 0.0
+episode 929:
+total request num: 468
+accept ratio: 0.0
+episode 931:
+total request num: 468
+accept ratio: 0.0
+episode 933:
+total request num: 468
+accept ratio: 0.0
+episode 935:
+total request num: 468
+accept ratio: 0.0
+episode 937:
+total request num: 468
+accept ratio: 0.0
+episode 939:
+total request num: 468
+accept ratio: 0.0
+episode 941:
+total request num: 468
+accept ratio: 0.0
+episode 943:
+total request num: 468
+accept ratio: 0.0
+episode 945:
+total request num: 468
+accept ratio: 0.0
+episode 947:
+total request num: 468
+accept ratio: 0.0
+episode 949:
+total request num: 468
+accept ratio: 0.0
+episode 951:
+total request num: 468
+accept ratio: 0.0
+episode 953:
+total request num: 468
+accept ratio: 0.0
+episode 955:
+total request num: 468
+accept ratio: 0.0
+episode 957:
+total request num: 468
+accept ratio: 0.0
+episode 959:
+total request num: 468
+accept ratio: 0.0
+episode 961:
+total request num: 468
+accept ratio: 0.0
+episode 963:
+total request num: 468
+accept ratio: 0.0
+episode 965:
+total request num: 468
+accept ratio: 0.0
+episode 967:
+total request num: 468
+accept ratio: 0.0
+episode 969:
+total request num: 468
+accept ratio: 0.0
+episode 971:
+total request num: 468
+accept ratio: 0.0
+episode 973:
+total request num: 468
+accept ratio: 0.0
+episode 975:
+total request num: 468
+accept ratio: 0.0
+episode 977:
+total request num: 468
+accept ratio: 0.0
+episode 979:
+total request num: 468
+accept ratio: 0.0
+episode 981:
+total request num: 468
+accept ratio: 0.0
+episode 983:
+total request num: 468
+accept ratio: 0.0
+episode 985:
+total request num: 468
+accept ratio: 0.0
+episode 987:
+total request num: 468
+accept ratio: 0.0
+episode 989:
+total request num: 468
+accept ratio: 0.0
+episode 991:
+total request num: 468
+accept ratio: 0.0
+episode 993:
+total request num: 468
+accept ratio: 0.0
+episode 995:
+total request num: 468
+accept ratio: 0.0
+episode 997:
+total request num: 468
+accept ratio: 0.0
+episode 999:
+total request num: 468
+accept ratio: 0.0
+episode 1001:
+total request num: 468
+accept ratio: 0.0
+episode 1003:
+total request num: 468
+accept ratio: 0.0
+episode 1005:
+total request num: 468
+accept ratio: 0.0
+episode 1007:
+total request num: 468
+accept ratio: 0.0
+episode 1009:
+total request num: 468
+accept ratio: 0.0
+episode 1011:
+total request num: 468
+accept ratio: 0.0
+episode 1013:
+total request num: 468
+accept ratio: 0.0
+episode 1015:
+total request num: 468
+accept ratio: 0.0
+episode 1017:
+total request num: 468
+accept ratio: 0.0
+episode 1019:
+total request num: 468
+accept ratio: 0.0
+episode 1021:
+total request num: 468
+accept ratio: 0.0
+episode 1023:
+total request num: 468
+accept ratio: 0.0
+episode 1025:
+total request num: 468
+accept ratio: 0.0
+episode 1027:
+total request num: 468
+accept ratio: 0.0
+episode 1029:
+total request num: 468
+accept ratio: 0.0
+episode 1031:
+total request num: 468
+accept ratio: 0.0
+episode 1033:
+total request num: 468
+accept ratio: 0.0
+episode 1035:
+total request num: 468
+accept ratio: 0.0
+episode 1037:
+total request num: 468
+accept ratio: 0.0
+episode 1039:
+total request num: 468
+accept ratio: 0.0
+episode 1041:
+total request num: 468
+accept ratio: 0.0
+episode 1043:
+total request num: 468
+accept ratio: 0.0
+episode 1045:
+total request num: 468
+accept ratio: 0.0
+episode 1047:
+total request num: 468
+accept ratio: 0.0
+episode 1049:
+total request num: 468
+accept ratio: 0.0
+episode 1051:
+total request num: 468
+accept ratio: 0.0
+episode 1053:
+total request num: 468
+accept ratio: 0.0
+episode 1055:
+total request num: 468
+accept ratio: 0.0
+episode 1057:
+total request num: 468
+accept ratio: 0.0
+episode 1059:
+total request num: 468
+accept ratio: 0.0
+episode 1061:
+total request num: 468
+accept ratio: 0.0
+episode 1063:
+total request num: 468
+accept ratio: 0.0
+episode 1065:
+total request num: 468
+accept ratio: 0.0
+episode 1067:
+total request num: 468
+accept ratio: 0.0
+episode 1069:
+total request num: 468
+accept ratio: 0.0
+episode 1071:
+total request num: 468
+accept ratio: 0.0
+episode 1073:
+total request num: 468
+accept ratio: 0.0
+episode 1075:
+total request num: 468
+accept ratio: 0.0
+episode 1077:
+total request num: 468
+accept ratio: 0.0
+episode 1079:
+total request num: 468
+accept ratio: 0.0
+episode 1081:
+total request num: 468
+accept ratio: 0.0
+episode 1083:
+total request num: 468
+accept ratio: 0.0
+episode 1085:
+total request num: 468
+accept ratio: 0.0
+episode 1087:
+total request num: 468
+accept ratio: 0.0
+episode 1089:
+total request num: 468
+accept ratio: 0.0
+episode 1091:
+total request num: 468
+accept ratio: 0.0
+episode 1093:
+total request num: 468
+accept ratio: 0.0
+episode 1095:
+total request num: 468
+accept ratio: 0.0
+episode 1097:
+total request num: 468
+accept ratio: 0.0
+episode 1099:
+total request num: 468
+accept ratio: 0.0
+episode 1101:
+total request num: 468
+accept ratio: 0.0
+episode 1103:
+total request num: 468
+accept ratio: 0.0
+episode 1105:
+total request num: 468
+accept ratio: 0.0
+episode 1107:
+total request num: 468
+accept ratio: 0.0
+episode 1109:
+total request num: 468
+accept ratio: 0.0
+episode 1111:
+total request num: 468
+accept ratio: 0.0
+episode 1113:
+total request num: 468
+accept ratio: 0.0
+episode 1115:
+total request num: 468
+accept ratio: 0.0
+episode 1117:
+total request num: 468
+accept ratio: 0.0
+episode 1119:
+total request num: 468
+accept ratio: 0.0
+episode 1121:
+total request num: 468
+accept ratio: 0.0
+episode 1123:
+total request num: 468
+accept ratio: 0.0
+episode 1125:
+total request num: 468
+accept ratio: 0.0
+episode 1127:
+total request num: 468
+accept ratio: 0.0
+episode 1129:
+total request num: 468
+accept ratio: 0.0
+episode 1131:
+total request num: 468
+accept ratio: 0.0
+episode 1133:
+total request num: 468
+accept ratio: 0.0
+episode 1135:
+total request num: 468
+accept ratio: 0.0
+episode 1137:
+total request num: 468
+accept ratio: 0.0
+episode 1139:
+total request num: 468
+accept ratio: 0.0
+episode 1141:
+total request num: 468
+accept ratio: 0.0
+episode 1143:
+total request num: 468
+accept ratio: 0.0
+episode 1145:
+total request num: 468
+accept ratio: 0.0
+episode 1147:
+total request num: 468
+accept ratio: 0.0
+episode 1149:
+total request num: 468
+accept ratio: 0.0
+episode 1151:
+total request num: 468
+accept ratio: 0.0
+episode 1153:
+total request num: 468
+accept ratio: 0.0
+episode 1155:
+total request num: 468
+accept ratio: 0.0
+episode 1157:
+total request num: 468
+accept ratio: 0.0
+episode 1159:
+total request num: 468
+accept ratio: 0.0
+episode 1161:
+total request num: 468
+accept ratio: 0.0
+episode 1163:
+total request num: 468
+accept ratio: 0.0
+episode 1165:
+total request num: 468
+accept ratio: 0.0
+episode 1167:
+total request num: 468
+accept ratio: 0.0
+episode 1169:
+total request num: 468
+accept ratio: 0.0
+episode 1171:
+total request num: 468
+accept ratio: 0.0
+episode 1173:
+total request num: 468
+accept ratio: 0.0
+episode 1175:
+total request num: 468
+accept ratio: 0.0
+episode 1177:
+total request num: 468
+accept ratio: 0.0
+episode 1179:
+total request num: 468
+accept ratio: 0.0
+episode 1181:
+total request num: 468
+accept ratio: 0.0
+episode 1183:
+total request num: 468
+accept ratio: 0.0
+episode 1185:
+total request num: 468
+accept ratio: 0.0
+episode 1187:
+total request num: 468
+accept ratio: 0.0
+episode 1189:
+total request num: 468
+accept ratio: 0.0
+episode 1191:
+total request num: 468
+accept ratio: 0.0
+episode 1193:
+total request num: 468
+accept ratio: 0.0
+episode 1195:
+total request num: 468
+accept ratio: 0.0
+episode 1197:
+total request num: 468
+accept ratio: 0.0
+episode 1199:
+total request num: 468
+accept ratio: 0.0
+episode 1201:
+total request num: 468
+accept ratio: 0.0
+episode 1203:
+total request num: 468
+accept ratio: 0.0
+episode 1205:
+total request num: 468
+accept ratio: 0.0
+episode 1207:
+total request num: 468
+accept ratio: 0.0
+episode 1209:
+total request num: 468
+accept ratio: 0.0
+episode 1211:
+total request num: 468
+accept ratio: 0.0
+episode 1213:
+total request num: 468
+accept ratio: 0.0
+episode 1215:
+total request num: 468
+accept ratio: 0.0
+episode 1217:
+total request num: 468
+accept ratio: 0.0
+episode 1219:
+total request num: 468
+accept ratio: 0.0
+episode 1221:
+total request num: 468
+accept ratio: 0.0
+episode 1223:
+total request num: 468
+accept ratio: 0.0
+episode 1225:
+total request num: 468
+accept ratio: 0.0
+episode 1227:
+total request num: 468
+accept ratio: 0.0
+episode 1229:
+total request num: 468
+accept ratio: 0.0
+episode 1231:
+total request num: 468
+accept ratio: 0.0
+episode 1233:
+total request num: 468
+accept ratio: 0.0
+episode 1235:
+total request num: 468
+accept ratio: 0.0
+episode 1237:
+total request num: 468
+accept ratio: 0.0
+episode 1239:
+total request num: 468
+accept ratio: 0.0
+episode 1241:
+total request num: 468
+accept ratio: 0.0
+episode 1243:
+total request num: 468
+accept ratio: 0.0
+episode 1245:
+total request num: 468
+accept ratio: 0.0
+episode 1247:
+total request num: 468
+accept ratio: 0.0
+episode 1249:
+total request num: 468
+accept ratio: 0.0
+episode 1251:
+total request num: 468
+accept ratio: 0.0
+episode 1253:
+total request num: 468
+accept ratio: 0.0
+episode 1255:
+total request num: 468
+accept ratio: 0.0
+episode 1257:
+total request num: 468
+accept ratio: 0.0
+episode 1259:
+total request num: 468
+accept ratio: 0.0
+episode 1261:
+total request num: 468
+accept ratio: 0.0
+episode 1263:
+total request num: 468
+accept ratio: 0.0
+episode 1265:
+total request num: 468
+accept ratio: 0.0
+episode 1267:
+total request num: 468
+accept ratio: 0.0
+episode 1269:
+total request num: 468
+accept ratio: 0.0
+episode 1271:
+total request num: 468
+accept ratio: 0.0
+episode 1273:
+total request num: 468
+accept ratio: 0.0
+episode 1275:
+total request num: 468
+accept ratio: 0.0
+episode 1277:
+total request num: 468
+accept ratio: 0.0
+episode 1279:
+total request num: 468
+accept ratio: 0.0
+episode 1281:
+total request num: 468
+accept ratio: 0.0
+episode 1283:
+total request num: 468
+accept ratio: 0.0
+episode 1285:
+total request num: 468
+accept ratio: 0.0
+episode 1287:
+total request num: 468
+accept ratio: 0.0
+episode 1289:
+total request num: 468
+accept ratio: 0.0
+episode 1291:
+total request num: 468
+accept ratio: 0.0
+episode 1293:
+total request num: 468
+accept ratio: 0.0
+episode 1295:
+total request num: 468
+accept ratio: 0.0
+episode 1297:
+total request num: 468
+accept ratio: 0.0
+episode 1299:
+total request num: 468
+accept ratio: 0.0
+episode 1301:
+total request num: 468
+accept ratio: 0.0
+episode 1303:
+total request num: 468
+accept ratio: 0.0
+episode 1305:
+total request num: 468
+accept ratio: 0.0
+episode 1307:
+total request num: 468
+accept ratio: 0.0
+episode 1309:
+total request num: 468
+accept ratio: 0.0
+episode 1311:
+total request num: 468
+accept ratio: 0.0
+episode 1313:
+total request num: 468
+accept ratio: 0.0
+episode 1315:
+total request num: 468
+accept ratio: 0.0
+episode 1317:
+total request num: 468
+accept ratio: 0.0
+episode 1319:
+total request num: 468
+accept ratio: 0.0
+episode 1321:
+total request num: 468
+accept ratio: 0.0
+episode 1323:
+total request num: 468
+accept ratio: 0.0
+episode 1325:
+total request num: 468
+accept ratio: 0.0
+episode 1327:
+total request num: 468
+accept ratio: 0.0
+episode 1329:
+total request num: 468
+accept ratio: 0.0
+episode 1331:
+total request num: 468
+accept ratio: 0.0
+episode 1333:
+total request num: 468
+accept ratio: 0.0
+episode 1335:
+total request num: 468
+accept ratio: 0.0
+episode 1337:
+total request num: 468
+accept ratio: 0.0
+episode 1339:
+total request num: 468
+accept ratio: 0.0
+episode 1341:
+total request num: 468
+accept ratio: 0.0
+episode 1343:
+total request num: 468
+accept ratio: 0.0
+episode 1345:
+total request num: 468
+accept ratio: 0.0
+episode 1347:
+total request num: 468
+accept ratio: 0.0
+episode 1349:
+total request num: 468
+accept ratio: 0.0
+episode 1351:
+total request num: 468
+accept ratio: 0.0
+episode 1353:
+total request num: 468
+accept ratio: 0.0
+episode 1355:
+total request num: 468
+accept ratio: 0.0
+episode 1357:
+total request num: 468
+accept ratio: 0.0
+episode 1359:
+total request num: 468
+accept ratio: 0.0
+episode 1361:
+total request num: 468
+accept ratio: 0.0
+episode 1363:
+total request num: 468
+accept ratio: 0.0
+episode 1365:
+total request num: 468
+accept ratio: 0.0
+episode 1367:
+total request num: 468
+accept ratio: 0.0
+episode 1369:
+total request num: 468
+accept ratio: 0.0
+episode 1371:
+total request num: 468
+accept ratio: 0.0
+episode 1373:
+total request num: 468
+accept ratio: 0.0
+episode 1375:
+total request num: 468
+accept ratio: 0.0
+episode 1377:
+total request num: 468
+accept ratio: 0.0
+episode 1379:
+total request num: 468
+accept ratio: 0.0
+episode 1381:
+total request num: 468
+accept ratio: 0.0
+episode 1383:
+total request num: 468
+accept ratio: 0.0
+episode 1385:
+total request num: 468
+accept ratio: 0.0
+episode 1387:
+total request num: 468
+accept ratio: 0.0
+episode 1389:
+total request num: 468
+accept ratio: 0.0
+episode 1391:
+total request num: 468
+accept ratio: 0.0
+episode 1393:
+total request num: 468
+accept ratio: 0.0
+episode 1395:
+total request num: 468
+accept ratio: 0.0
+episode 1397:
+total request num: 468
+accept ratio: 0.0
+episode 1399:
+total request num: 468
+accept ratio: 0.0
+episode 1401:
+total request num: 468
+accept ratio: 0.0
+episode 1403:
+total request num: 468
+accept ratio: 0.0
+episode 1405:
+total request num: 468
+accept ratio: 0.0
+episode 1407:
+total request num: 468
+accept ratio: 0.0
+episode 1409:
+total request num: 468
+accept ratio: 0.0
+episode 1411:
+total request num: 468
+accept ratio: 0.0
+episode 1413:
+total request num: 468
+accept ratio: 0.0
+episode 1415:
+total request num: 468
+accept ratio: 0.0
+episode 1417:
+total request num: 468
+accept ratio: 0.0
+episode 1419:
+total request num: 468
+accept ratio: 0.0
+episode 1421:
+total request num: 468
+accept ratio: 0.0
+episode 1423:
+total request num: 468
+accept ratio: 0.0
+episode 1425:
+total request num: 468
+accept ratio: 0.0
